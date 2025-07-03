@@ -1,0 +1,5 @@
+[package]
+name = "wifui"
+version = "0.1.0"
+edition = "2021"
+description = "A lightweight, keyboard-driven Terminal User Interface (TUI) for managing Wi-Fi connections on Linux/Windows."
